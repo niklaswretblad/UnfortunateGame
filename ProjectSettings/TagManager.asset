@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CameraText
+  - KeyDrawer1
+  - LockedDoor1
+  - StaminaBar
+  - GameOverCanvas
+  - RestartGameHandler
+  - Monster
+  - LockedDoor2
+  - KeyDrawer2
+  - GameCompletedCanvas
+  - GameIntroCanvas
+  - ElectricDoor1
+  - PauseMenu
+  - PauseMenuController
+  - Footsteps
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4152637949
+    locked: 0
+  - name: SolidObjects
+    uniqueID: 2783207071
+    locked: 0
+  - name: Foreground
+    uniqueID: 3595249071
+    locked: 0
+  - name: Player
+    uniqueID: 928943271
+    locked: 0
+  - name: Roof
+    uniqueID: 3267327909
+    locked: 0
+  - name: UI
+    uniqueID: 1948505453
+    locked: 0
+  - name: OverlayScreen
+    uniqueID: 1486072787
+    locked: 0
