@@ -5,4 +5,4 @@ Move using WASD. Hold in shift to run. Good luck!
 
 # Screenshots
 
-![Alt text](relative%20Screenshots/screenshot1.jpg?raw=true "Title")
+![Alt text](Screenshots/screenshot1.jpg?raw=true "Title")
