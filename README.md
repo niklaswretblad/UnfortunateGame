@@ -10,7 +10,7 @@ Move using WASD. Hold in shift to run. Good luck!
 ![Alt text](/Screenshots/screenshot3.png "Optional title")
 
 
-![Alt text](/Screenshots/screenshot6.png "Optional title")
+![Alt text](/Screenshots/screenshot2.png "Optional title")
 
 
 
